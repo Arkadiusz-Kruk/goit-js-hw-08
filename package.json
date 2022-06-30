@@ -15,8 +15,7 @@
   "author": "Arkadiuz Kruk <arkkrak82@gmail.com>",
   "license": "ISC",
   },
-  "dependencies": {
-    "modern-normalize": "^1.1.0"
+
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
