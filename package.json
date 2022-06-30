@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Arkadiusz-Kruk/goit-js-hw-08.git"  /
+    "url": "git+https://github.com/Arkadiusz-Kruk/goit-js-hw-08.git"  
   },
   "keywords": [],
   "author": "Arkadiuz Kruk <arkkrak82@gmail.com>",
@@ -25,4 +25,5 @@
     "posthtml-include": "^1.7.4"
   },
   "browserslist": "> 0.5%, last 2 versions, not dead"
+}
 }
