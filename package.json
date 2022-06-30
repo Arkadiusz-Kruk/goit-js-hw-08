@@ -1,27 +1,30 @@
 {
   "name": "goit-js-hw-08",
-  "version": "2.0.0",
-  "description": "",
-  "homepage": "https://arkadiusz-kruk.github.io/goit-js-hw-08/",     
+  "version": "1.0.0",
+  "homepage": "https://annaojdana.github.io/goit-js-hw-08/",
   "scripts": {
-    "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"        
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Arkadiusz-Kruk/goit-js-hw-08" 
+    "url": "git+https://github.com/annaojdana/goit-js-hw-08.git"
   },
-  "keywords": [],
-  "author": "Arkadiuz Kruk <arkkrak82@gmail.com>",
+  "author": "ANNA OJDANA anna.ojdana@gmail.com",
   "license": "ISC",
-  },
-
+  "description": "",
+  "dependencies": {
+    
+    "@vimeo/player": "^2.16.4",
+    "lodash.throttle": "^4.1.1",
+    "simplelightbox": "^2.10.3"
+    
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
-    "parcel": "^2.6.0",
+    "parcel": "^2.5.0",
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
-  },
-  "browserslist": "> 0.5%, last 2 versions, not dead"
-
+    
+  }
+}
